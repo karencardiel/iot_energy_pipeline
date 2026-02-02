@@ -120,7 +120,7 @@ refresh_interval = st.sidebar.selectbox(
     options=[5, 10, 30, 60, 300], # Añadimos 5 minutos (300s)    index=3
 )
 
-st.markdown("<h1 class='main-header'>Real-Time Energy Analysis Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-header'>IoT Energy Consumption Analysis</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 try:
