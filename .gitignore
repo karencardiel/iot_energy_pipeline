@@ -1,0 +1,14 @@
+# Secretos
+.env
+
+# Archivos de sistema de Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
