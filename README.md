@@ -130,7 +130,7 @@ The database implements a normalized relational schema with three tables:
 
 ### Interface Organization
 
-<img width="1317" height="754" alt="image" src="https://github.com/user-attachments/assets/e77ed173-bb17-4305-b1f4-12d8595fe249" />
+<img width="1317" height="751" alt="image" src="https://github.com/user-attachments/assets/b534d16f-4898-4d7c-9111-7efbdf80954b" />
 
 The dashboard follows a hierarchical information architecture:
 
